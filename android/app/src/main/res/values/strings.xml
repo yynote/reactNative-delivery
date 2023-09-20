@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">deliveryuser</string>
+    <string name="kakao_app_key">49c62c85c33df851d91bc6887574ac8c</string>
+    <string name="facebook_app_id">1502129553468393</string>
+</resources>

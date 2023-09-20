@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "215813841236",
+    "project_id": "daengcut-f3849",
+    "storage_bucket": "daengcut-f3849.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215813841236:android:5ea65d0e2fdda51803e8c1",
+        "android_client_info": {
+          "package_name": "com.deliveryuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215813841236-gr80jsu8e9iu586fobq0b5pqur05mtr1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deliveryuser",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "215813841236-m4r9a1qgaknma1rurihf9vk4tqc6kflt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deliveryuser",
+            "certificate_hash": "280cbe129279e3e8feaa0611269145d116eda1c8"
+          }
+        },
+        {
+          "client_id": "215813841236-7mgq92e3to63poq2m2qin8gaohl42hnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnX8HbNvaFQpPWFVpeafGgTxFd1KT-e8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215813841236-7mgq92e3to63poq2m2qin8gaohl42hnr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "215813841236-0s6mqij170mmsc3f6s57soqkta6mbm54.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.deliveryuser"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
